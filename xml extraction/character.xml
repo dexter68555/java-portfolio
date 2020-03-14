@@ -1,0 +1,17 @@
+<characters>
+    <character id="1">
+        <firstName>Monkey</firstName>
+        <lastName>Luffy</lastName>
+        <location>Japan</location>
+    </character>
+    <character id="2">
+        <firstName>John</firstName>
+        <lastName>Connor</lastName>
+        <location>Germany</location>
+    </character>
+    <character id="3">
+        <firstName>Dexter</firstName>
+        <lastName>Mcdonald</lastName>
+        <location>USA</location>
+    </character>
+</characters>
