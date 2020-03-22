@@ -2,6 +2,8 @@
 
 # Hash is a program to generate MD5, SHA1 and SHA256 Checksum with a selected file.
 
+# MVC is a demo on Java Spring MVC with netbean
+
 # Calculator is a simple calculator application written in java.
 
 # NTP date is part of the project I done that required extracting date information from NTP server with embedded system.
